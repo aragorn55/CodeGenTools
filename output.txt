@@ -1,0 +1,10 @@
+COMMAND ACTION SOURCE SOURCEROOT DESTINATION FILEEXTENSION
+
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/m4v/fffiletype .m4v
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/arw/fffiletype .arw
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/xcf/fffiletype .xcf
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/raw/fffiletype .raw
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/m4v/fffiletype .m4v
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/arw/fffiletype .arw
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/xcf/fffiletype .xcf
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/raw/fffiletype .raw
