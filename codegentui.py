@@ -27,6 +27,7 @@ def main():
 
 def write_list_to_file(destination, output_list):
     a_file = open(destination, mode='a', encoding='utf-8')
+    a_file.write('#!/bin/bash\n')
     for line in output_list:
         a_file.write(line)
 
